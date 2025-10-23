@@ -51,7 +51,7 @@ class Blob(Animal):
         print("Usa sus aletas gigantes para desplazarse")
 
     def describeme(self):
-        print("Hola, soy una especie conocida unicamente por su sonido, se presume que soy el animal mas grande del mundo")
+        print("Hola, soy una especie marina gigante, soy conocido unicamente por los sonidos extremadamente fuertes que emito")
 
     def AccionTerrorifica(self):
         print("Soy capaz de hundir cualquier embarcacion y mi capacidad mental me permite competir con el hombre intelectualmente")
